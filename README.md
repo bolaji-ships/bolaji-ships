@@ -18,3 +18,5 @@ Before marketing, I studied Metallurgical and Materials Engineering. That's prob
 → [LinkedIn](https://www.linkedin.com/in/bolajianifowose/)
 
 → [X: @itsMoveek](https://x.com/itsmoveek)
+
+→ [YouTube: @thisisbolaji](https://www.youtube.com/@thisisbolaji)
