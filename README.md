@@ -5,8 +5,6 @@ PMM and GTM Engineer in Lagos. I help B2B startups build go-to-market systems th
 ### What I'm working on
 → Faculty Lead for the Treford GTM Engineering Bootcamp
 
-→ Writing [GTM Demystified](https://gtmdemystified.com), a weekly newsletter on what actually works in go-to-market
-
 → Co-organising Clay Club Lagos
 
 ### What you'll find here
@@ -20,5 +18,3 @@ Before marketing, I studied Metallurgical and Materials Engineering. That's prob
 → [LinkedIn](https://www.linkedin.com/in/bolajianifowose/)
 
 → [X: @itsMoveek](https://x.com/itsmoveek)
-
-→ [Newsletter: gtmdemystified.com](https://gtmdemystified.com)
